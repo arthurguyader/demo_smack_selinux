@@ -1,1 +1,1 @@
-# demo_smack_selinux
+# DEMO SMACK SELINUX
